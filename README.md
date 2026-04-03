@@ -21,8 +21,8 @@ Plataformas no oficiales que tienen una adaptacion:
 
 - Wii U
 
-Si deseas las distribuciones de PC y Switch visita el repositorio oficial:https://github.com/fgsfdsfgs/perfect_dark/releases
-Si deseas las ultimas actualizaciones de la version de Wii U visita su repositorio: https://github.com/ajfleming1/perfect_dark/releases
+- Si deseas las distribuciones de PC y Switch visita el repositorio oficial:https://github.com/fgsfdsfgs/perfect_dark/releases
+- Si deseas las ultimas actualizaciones de la version de Wii U visita su repositorio: https://github.com/ajfleming1/perfect_dark/releases
 
 ## Seccion de Wii U
 
